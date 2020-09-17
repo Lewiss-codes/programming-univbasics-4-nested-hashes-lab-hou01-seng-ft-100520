@@ -119,10 +119,9 @@ def changing_alan
     
 programmer_hash[:alan_kay][:known_for] = "GUI"
 
-
-
 end
 puts programmer_hash
+
 def adding_to_dennis
   # add "Assembly" to Dennis Ritchie's languages array
   # return the entire updated hash
